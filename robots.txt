@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiteiceexa.pmdog.me/sitemap.xml
